@@ -1,2 +1,3 @@
 # My Website
-THis is rwally awesome website
+This is really awesome website
+Adding example branch
